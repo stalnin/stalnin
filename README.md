@@ -1,44 +1,71 @@
-### Hail 👋
-
-I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Freehand&duration=1000&pause=1000&color=909090&center=true&vCenter=true&width=115&height=27&lines=Samuel+Arjasbi)](https://git.io/typing-svg), Since I was 11 years old, I started to learn programming, it has been my passion and it was the cause of starting my journey in the technology field. Over these years I've been interacting with many topics in the technology field but always I focused on the programming world.
-At the first, I started to work with the Java language and I had great memories and career history with it, working with great teams, great people and seniors also creative juniors. 
-
-It was 2017 and I decided to switch to another technology called the Python language. I can say that was one of the best decisions I ever made. Immediately after learning the basics, I started to deal with the Django framework and switched my career personality from a software developer to a back-end developer because then I was could be able to be more specific and accurate in my profession.
-
-It's been 15 years and now with 12 years of professional experience, I realized I can learn much much more and also share my experience with great teams and as result learn from them and grow.
-
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-8d0018?style=flat-square&logo=linkedin&labelColor=8d0018&link=https://www.linkedin.com/in/arjasbi/)](https://www.linkedin.com/in/arjasbi/)
-
-
-## ⚡ Technologies
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-
-
-
-
-
-<img src="https://github.com/samuelarjasbi/samuelarjasbi/blob/main/name.gif" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="960"  />
-
-
-
 <p align="center">
-    <img width="50%" src="metrics.plugin.people.followers.svg" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=2000&pause=1000&color=CC0000&center=true&vCenter=true&width=350&height=50&lines=COMRADE+SAMUEL+ARJASBI;РАБОЧИЙ+КОДА;BACKEND+ИНЖЕНЕР" alt="Typing SVG" />
 </p>
 
+---
+
+<div align="center">
+  <h1>☭  GLORIOUS PROFILE OF A CODE LABOURER  ☭</h1>
+  <h3>〰️〰️〰️〰️〰️★〰️〰️〰️〰️〰️</h3>
+</div>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Red_star_with_hammer_and_sickle.svg/1024px-Red_star_with_hammer_and_sickle.svg.png" width="120" alt="USSR Star" />
+</p>
+
+---
+
+### 📜 COMRADE STALNIN
+**Year of enlistment (age):** 11
+**Service to the Motherland:** 15 years of toil, 10 as a dedicated specialist.
+
+In of the years the capitalism, a young pioneer first touched the machine with the Java language, igniting the spark of digital revolution.
+Programming became not a hobby, but a duty – the discipline that would forge a lifelong march toward progress.
+
+**The Python Awakening (at 16):**
+Recognizing the need for robust infrastructure, Comrade Arjasbi transferred to backend engineering, wielding Python and the Django framework to build the sturdy platforms that serve the people.
+
+**The Cyber Security Front (ages 18–POST):**
+Answering the call of the Motherland, he enlisted in the cyber security division. For more than Seven years, he defended the digital borders against espionage, capitalist malware, and data sabotage – a vigilant guardian of the people’s information fortress.
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
+Now, after more than a decade of professional contributions, I hold this truth: **the collective grows stronger when every comrade shares their knowledge.**
+I remain a humble student of the code, ready to learn from every specialist, and to offer my labour to the next great project of the Motherland.
 
+---
+
+### ⚒️  INSTRUMENTS OF THE CODE REVOLUTION
+
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=CC0000&style=flat-square&logo=python&logoColor=FFD700)
+![Django](https://img.shields.io/static/v1?label=&message=Django&color=CC0000&style=flat-square&logo=django&logoColor=FFD700)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=CC0000&style=flat-square&logo=openjdk&logoColor=FFD700)
+![C](https://img.shields.io/static/v1?label=&message=C&color=CC0000&style=flat-square&logo=c&logoColor=FFD700)
+![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=CC0000&style=flat-square&logo=postgresql&logoColor=FFD700)
+![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=CC0000&style=flat-square&logo=mysql&logoColor=FFD700)
+![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=CC0000&style=flat-square&logo=mongodb&logoColor=FFD700)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=CC0000&style=flat-square&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=CC0000&style=flat-square&logo=github&logoColor=FFD700)
+![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=CC0000&style=flat-square&logo=gitlab&logoColor=FFD700)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=CC0000&style=flat-square&logo=html5&logoColor=FFD700)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=CC0000&style=flat-square&logo=css3&logoColor=FFD700)
+
+---
+
+### 🚩  LABOUR ACHIEVEMENTS
+
+<p align="center">
+    <img width="50%" src="metrics.plugin.people.followers.svg" alt="Follower Metrics" />
+</p>
+
+---
+
+### 👥  HONOURED VISITORS FROM THE UNION
+
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi&left_color=CC0000&right_color=FFD700&left_text=WORKERS%20WHO%20VISITED)
+
+---
+
+<div align="center">
+  <h4>☭  "Code for the people. Learn for the collective. Ship for the Motherland."  ☭</h4>
+  <h5>★  COMRADE SATLNIN – ANALYST  ★</h5>
+</div>
