@@ -14,6 +14,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 ## ⚡ Technologies
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -23,6 +24,7 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
 
 
 
