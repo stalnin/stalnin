@@ -42,9 +42,3 @@ It's been 10 years and now with 7 years of professional experience, I realized I
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sameularjasbi.samuelarjasbi)
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
