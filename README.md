@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1> КОДОВЫЙ РАБОЧИЙ </h1>
 </div>
@@ -21,21 +20,20 @@
 ---
 
 ### 📜 COMRADE STALNIN
-**Year of enlistment (age):** 11
+**Year of enlistment (age):** 11  
 **Service to the Motherland:** 15 years of toil, 10 as a dedicated specialist.
 
-In of the years the capitalism, a young pioneer first touched the machine with the Java language, igniting the spark of digital revolution.
-Programming became not a hobby, but a duty – the discipline that would forge a lifelong march toward progress.
+In years of the capitalism, young pioneer first touched machine with Java language. This was igniting spark of digital revolution.  
+Programming became not hobby, but duty – the discipline that is forging lifelong march toward progress.
 
-**The Python Awakening (at 16):**
-Recognizing the need for robust infrastructure, Comrade Arjasbi transferred to backend engineering, wielding Python and the Django framework to build the sturdy platforms that serve the people.
+**The Python Awakening (at 16):**  
+Recognising need for robust infrastructure, Comrade Stalnin made transfer to backend engineering. He is wielding Python and Django framework for to build sturdy platforms that serve people.
 
-**The Cyber Security Front (ages 18–POST):**
-Answering the call of the Motherland, he enlisted in the cyber security division. For more than Seven years, he defended the digital borders against espionage, capitalist malware, and data sabotage – a vigilant guardian of the people’s information fortress.
+**The Cyber Security Front (ages 18–POST):**  
+Answering call of Motherland, he enlist in cyber security division. For more than seven years he defend digital borders against espionage, capitalist malware and data sabotage – vigilant guardian of people’s information fortress.
 
-
-Now, after more than a decade of professional contributions, I hold this truth: **the collective grows stronger when every comrade shares their knowledge.**
-I remain a humble student of the code, ready to learn from every specialist, and to offer my labour to the next great project of the Motherland.
+Now, after more than decade of professional contributions, I am holding this truth: **collective is growing stronger when every comrade share knowledge.**  
+I remain humble student of code, ready to learn from every specialist, and to offer my labour to next great project of Motherland.
 
 ---
 
@@ -71,6 +69,7 @@ I remain a humble student of the code, ready to learn from every specialist, and
 ---
 
 <div align="center">
-  <h4>☭  "Code for the people. Learn for the collective. Ship for the Motherland."  ☭</h4>
-  <h5>★  COMRADE SATLNIN – ANALYST  ★</h5>
+  <h4>☭  "Code for people. Learn for collective. Ship for Motherland."  ☭</h4>
+  <h6><i>— In Soviet Russia, code ships you!</i></h6>
+  <h5>★  COMRADE STALNIN – ANALYST  ★</h5>
 </div>
