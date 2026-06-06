@@ -1,5 +1,7 @@
+
+  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=2000&pause=1000&color=CC0000&center=true&vCenter=true&width=350&height=50&lines=COMRADE+SAMUEL+ARJASBI;РАБОЧИЙ+КОДА;BACKEND+ИНЖЕНЕР" alt="Typing SVG" />
+  <img width="400" height="400" src="https://github.com/stalnin/stalnin/blob/main/ezgif.com-webp-to-gif-converter%20(1).gif?raw=true">
 </p>
 
 ---
@@ -10,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Red_star_with_hammer_and_sickle.svg/1024px-Red_star_with_hammer_and_sickle.svg.png" width="120" alt="USSR Star" />
+  <img src="https://github.com/stalnin/stalnin/blob/main/PngItem_895071.png?raw=true" width="120" alt="USSR Star" />
 </p>
 
 ---
