@@ -1,4 +1,7 @@
 
+<div align="center">
+  <h1> КОДОВЫЙ РАБОЧИЙ </h1>
+</div>
   
 <p align="center">
   <img width="400" height="400" src="https://github.com/stalnin/stalnin/blob/main/ezgif.com-webp-to-gif-converter%20(1).gif?raw=true">
